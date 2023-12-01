@@ -9,7 +9,9 @@ permalink: /doc/
 
 Here is a screenshot of the schematic for the design.
 
-![Schematic of system](/assets/schematics/example_schematic.png)
+![Schematic of system 1](/assets/schematics/example_schematic.png)
+
+![Schematic of system 2](./assets/schematics/example_schematic.png)
 
 # Source Code Overview
 <!-- This section should include information to describe the organization of the code base and highlight how the code connects. -->
